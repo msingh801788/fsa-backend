@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
+
+//its used for telling babel to refer which env
